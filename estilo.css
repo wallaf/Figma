@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap%27');
+
+html {
+    margin: auto;
+    padding: auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: #eff0f3;
+    margin: -0.6%;
+
+}
+
+body {
+    text-align: justify;
+    background-color: #f6f6f6;
+}
+
+header img#logo {
+    width: 9%;
+    margin-top: 5px;
+}
+
+header img#Conhecendo-o-fig {
+    padding-right: -100%;
+    width: 100%;
+    border-top: rgb(175, 173, 173) 1px solid;
+}
+
+nav#menu ul li{
+    display: inline-block;
+    padding: 7px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+nav#menu ul li a{
+    color: black;
+}
+
+nav#menu {
+    float: right;
+    margin-right: 45px;
+}
+
+footer {
+    margin: 10% -0.6% 0.6% -0.6%;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #000000;
+    border-top: rgb(175, 173, 173) 1px solid;
+
+}
+
+footer div ul#nomes {
+    padding: auto;
+    margin: auto;
+    position: relative;
+    padding-top: 1%;
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12pt;
+    padding: auto;
+    margin: auto;
+    color: white;
+
+}
+
+footer div ul#prof {
+    position: relative;
+    margin-left: 67%;
+    margin-top: -5%;
+    padding-bottom: 1%;
+    color: white;
+
+}
+
+
+/* div#interface p {
+    background-image: url("imagens/retangulo.png");
+    background-size: 50%;
+    background-position: ;
+} */
+
+.Retângulo_3 {
+    border-left: 80px #803ed7 ;
+    border-left-style: solid ;
+    background-color:#a25aff ;
+    position: relative;
+    left: 47%;
+    width: 44.7%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste3 3s;
+}
+
+@keyframes teste3 {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+section#yt {
+    display: block;
+    float: right;
+    position: relative;
+    left: -55%;
+
+    animation: testeyt 3s;
+}
+
+@keyframes testeyt {
+    from {
+        transform: translateX(-400px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.Retângulo_1 {
+    border-left: 80px rgb( 20, 149, 202 );
+    border-left-style: solid ;
+    background-color: rgb( 27, 189, 255 );
+    position: relative;
+    left: 90px;
+    width: 85%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste 3s;
+}
+
+@keyframes teste {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+
+.Retângulo_2 {
+    border-right: 80px #068152;
+    border-right-style: solid ;
+    background-color:#0acf84;
+    position: relative;
+    right: 8px;
+    width: 85%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste2 3s;
+}
+
+@keyframes teste2 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.Retângulo_4 {
+    border-right: 80px #f44e20;
+    border-right-style: solid ;
+    background-color:#ff7362 ;
+    position: relative;
+    right: 8px;
+    width: 45%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste2 3s;
+}
+
+@keyframes teste4 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.Retângulo_1 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.Retângulo_1 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Retângulo_2 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Retângulo_2 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.Retângulo_3 li {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Retângulo_3 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.Retângulo_4 li {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Retângulo_4 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+

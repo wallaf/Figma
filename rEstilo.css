@@ -1,0 +1,234 @@
+img#ref {
+    width: 100%;
+}
+
+a.link {
+    color: black;
+    text-decoration: underline;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+p.rRetângulo_1 {
+    border-right: 80px rgb( 20, 149, 202 );
+    border-right-style: solid ;
+    background-color: rgb( 27, 189, 255 );
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste 1s;
+}
+
+@keyframes teste {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_2 {
+    border-right: 80px #f44e20;
+    border-right-style: solid ;
+    background-color:#ff7362;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste2 1.5s;
+}
+
+@keyframes teste2 {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_3 {
+    border-right: 80px #803ed7 ;
+    border-right-style: solid ;
+    background-color:#a25aff ;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste3 2s;
+}
+
+@keyframes teste3 {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_4 {
+    border-right: 80px #068152;
+    border-right-style: solid ;
+    background-color:#0acf84 ;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste4 3s;
+}
+
+@keyframes teste4 {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_5 {
+    border-right: 80px#c6431f;
+    border-right-style: solid ;
+    background-color:#f44e20;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste5 3.5s;
+}
+
+@keyframes teste5 {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_6 {
+    border-right: 80px rgb( 20, 149, 202 );
+    border-right-style: solid ;
+    background-color: rgb( 27, 189, 255 );
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste6 4s;
+}
+
+@keyframes teste6 {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_7 {
+    border-right: 80px #f44e20;
+    border-right-style: solid ;
+    background-color:#ff7362;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste7 4.3s;
+}
+
+@keyframes teste7 {
+    from {
+        transform: translateX(-470px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_8 {
+    border-right: 80px #803ed7 ;
+    border-right-style: solid ;
+    background-color:#a25aff ;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste8 4.6s;
+}
+
+@keyframes teste8 {
+    from {
+        transform: translateX(-450px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.rRetângulo_9 {
+    border-right: 80px #068152;
+    border-right-style: solid ;
+    background-color:#0acf84 ;
+    position: relative;
+    right: ;
+    width: 20%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste9 4.9s;
+}
+
+@keyframes teste9 {
+    from {
+        transform: translateX(-450px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}

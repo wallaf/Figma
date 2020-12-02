@@ -1,0 +1,400 @@
+img#ferramentas {
+    width: 100%;
+}
+
+.fRetângulo_1 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_1 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_2 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_2 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_3 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_3 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_4 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_4 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_5 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_5 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_6 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_6 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_7 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_7 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_8 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_8 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_9 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_9 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_10 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_10 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_11 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_11 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_12 p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fRetângulo_12 h3 {
+    font-family: 'Varela', sans-serif;
+}
+
+.fRetângulo_1 {
+    border-left: 80px rgb( 20, 149, 202 );
+    border-left-style: solid ;
+    background-color: rgb( 27, 189, 255 );
+    position: relative;
+    left: 21.5%;
+    width: 70%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste 3s;
+}
+
+@keyframes teste {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_2 {
+    border-right: 80px #f44e20;
+    border-right-style: solid ;
+    background-color:#ff7362;
+    position: relative;
+    right: 8px;
+    width: 85%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste2 3s;
+}
+
+@keyframes teste2 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_3 {
+    border-left: 80px #803ed7 ;
+    border-left-style: solid ;
+    background-color:#a25aff ;
+    position: relative;
+    left: 38.5%;
+    width: 53%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste3 3s;
+}
+
+@keyframes teste3 {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_4 {
+    border-right: 80px #068152;
+    border-right-style: solid ;
+    background-color:#0acf84 ;
+    position: relative;
+    right: 8px;
+    width: 45%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste4 3s;
+}
+
+@keyframes teste4 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_5 {
+    border-left: 80px#c6431f;
+    border-left-style: solid ;
+    background-color:#f44e20;
+    position: relative;
+    left: 84px;
+    width: 85%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste5 3s;
+}
+
+@keyframes teste5 {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_6 {
+    border-right: 80px rgb( 20, 149, 202 );
+    border-right-style: solid ;
+    background-color: rgb( 27, 189, 255 );
+    position: relative;
+    right: 0.8%;
+    width: 70%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste6 3s;
+}
+
+@keyframes teste6 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_7 {
+    border-left: 80px #f44e20;
+    border-left-style: solid ;
+    background-color:#ff7362;
+    position: relative;
+    left: 21.5%;
+    width: 70%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste7 3s;
+}
+
+@keyframes teste7 {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_8 {
+    border-right: 80px #803ed7 ;
+    border-right-style: solid ;
+    background-color:#a25aff ;
+    position: relative;
+    right: 0.9%;
+    width: 75%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste8 3s;
+}
+
+@keyframes teste8 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_9 {
+    border-left: 80px #068152;
+    border-left-style: solid ;
+    background-color:#0acf84 ;
+    position: relative;
+    left: 26.5%;
+    width: 65%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste9 3s;
+}
+
+@keyframes teste9 {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_10 {
+    border-right: 80px rgb( 20, 149, 202 );
+    border-right-style: solid ;
+    background-color: rgb( 27, 189, 255 );
+    position: relative;
+    right: 0.6%;
+    width: 65%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste10 3s;
+}
+
+@keyframes teste10 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+
+.fRetângulo_11 {
+    border-left: 80px #068152;
+    border-left-style: solid ;
+    background-color:#0acf84;
+    position: relative;
+    left: 41.5%;
+    width: 50%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste11 3s;
+}
+
+@keyframes teste11 {
+    from {
+        transform: translateX(600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
+
+.fRetângulo_12 {
+    border-right: 80px #803ed7;
+    border-right-style: solid ;
+    background-color: #a25aff;
+    position: relative;
+    right: 0.8%;
+    width: 75%;
+    height: auto;
+    padding: 19px 19px 30px 19px;
+    z-index: 8;
+
+    animation: teste12 3s;
+}
+
+@keyframes teste12 {
+    from {
+        transform: translateX(-600px);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+
+}
